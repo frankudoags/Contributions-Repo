@@ -16,3 +16,7 @@ MY CONTRIBUTIONS.
 -Provided basic codebase in solidity which was the starting template for the smart contract, also edited basic codebase with team-mates till final completion. https://github.com/Epic-Byte/WEB3LIBRARY/commit/509be18336629167fafdcad0135fba63349eba00
 -Provided front-end template in HTML, CSS and JavaScript which was ported to React by front-end Team. https://github.com/Epic-Byte/FRONTEND-UI/commit/784b921fd9573e5f9dacfd5e0d110955289c70be
 -Also provided format in which Library items are to be displayed for front-end team. (Team-mates can verify.)
+
+
+PROJECT 3
+-Provided basic codebase in solidity which was the starting template for the smart contract, also edited basic codebase with team-mates till final completion. 
